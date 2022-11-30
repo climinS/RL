@@ -1,9 +1,1 @@
-DQN for Breakout
-================
-
-This project is modified from https://github.com/wetliu/dqn_pytorch based on my
-opinionated styles of coding.
-
-And here are some pre-trained weights that you can play with:
-- [model_weights_a](https://github.com/lukeluocn/dqn-breakout/releases/download/v0.0.0/model_weights_a)
-- [model_weights_b](https://github.com/lukeluocn/dqn-breakout/releases/download/v0.0.0/model_weights_b)
+The algorithm used in this experiment is DQN, a deep neural network algorithm. It is an excellent algorithm, but it still has some shortcomings. We have implemented two algorithms in the experiment: Double DQN and Dueling DQN , which can improve the effect of DQN to some extent
